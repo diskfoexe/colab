@@ -10,12 +10,14 @@ https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-va
 
 How to Install ACE-Step-1.5 on Google Colab Free Tier
 TEXT_ENCODER_URLS
-https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/text_encoders/qwen_4b_ace15.safetensors
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/text_encoders/qwen_0.6b_ace15.safetensors?download=true
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/text_encoders/qwen_1.7b_ace15.safetensors?download=true
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/text_encoders/qwen_4b_ace15.safetensors?download=true
+
 VAE_URLS
-https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/vae/ace_1.5_vae.safetensors
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/vae/ace_1.5_vae.safetensors?download=true
+
 UNET_DIFFUSION_URLS
-https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/diffusion_models/acestep_v1.5_turbo.safetensors
-https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/diffusion_models/acestep_v1.5_base.safetensors
-https://huggingface.co/Aryanne/acestep-v15-test-merges/blob/main/acestep_v1.5_merge_sft_turbo_ta_0.5.safetensors
-https://huggingface.co/Aryanne/acestep-v15-test-merges/blob/main/acestep_v1.5_merge_sft_turbo_ta_0.3.safetensors
-https://huggingface.co/Aryanne/acestep-v15-test-merges/blob/main/acestep_v1.5_merge_sft_turbo_ta_0.4.safetensors
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/diffusion_models/acestep_v1.5_base.safetensors?download=true
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/resolve/main/split_files/diffusion_models/acestep_v1.5_turbo.safetensors?download=true
+https://huggingface.co/Aryanne/acestep-v15-test-merges/resolve/main/acestep_v1.5_merge_sft_turbo_ta_0.4.safetensors?download=true
