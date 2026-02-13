@@ -1,0 +1,7 @@
+How to Install Flux.2 Klein 4B on Google Colab Free Tier
+TEXT_ENCODER_URLS
+https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors
+UNET_DIFFUSION_URLS
+https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/main/flux-2-klein-4b-fp8.safetensors
+VAE_URLS
+https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors
