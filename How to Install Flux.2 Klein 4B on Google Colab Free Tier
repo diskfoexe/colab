@@ -5,3 +5,14 @@ UNET_DIFFUSION_URLS
 https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/main/flux-2-klein-4b-fp8.safetensors
 VAE_URLS
 https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/vae/flux2-vae.safetensors
+
+
+
+How to Install ACE-Step-1.5 on Google Colab Free Tier
+TEXT_ENCODER_URLS
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/text_encoders/qwen_4b_ace15.safetensors
+VAE_URLS
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/vae/ace_1.5_vae.safetensors
+UNET_DIFFUSION_URLS
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/diffusion_models/acestep_v1.5_turbo.safetensors
+https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/blob/main/split_files/diffusion_models/acestep_v1.5_base.safetensors
